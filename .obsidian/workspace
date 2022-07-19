@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "4b9cc7bf4976e8fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "df15813e729ae1e4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Values/Pluralism.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d618c458296836dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "51926b3a27357a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b80667db6ac3856c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aa048cb6d3ecac4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dad258a6b36d4a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77699c5615d658fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c0f61fefa3c20dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f91cb2ba1b08ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Values/Pluralism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7afe4b342745ff12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Values/Pluralism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3df84dea080995df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12223273d93dec5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Values/Pluralism.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df15813e729ae1e4",
+  "lastOpenFiles": [
+    "Mission/ReFi Founders Circle.md",
+    "Vision/Grid Simulation.md",
+    "Values/Pluralism.md"
+  ]
+}
