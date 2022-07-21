@@ -29,4 +29,4 @@ https://fmasworkshop.github.io/FMAS2022/
 
 **Gift:** simulation token airdrop to try running your own microgrids using open-source dApps that we develop
 
-**Goal:** prepare to launch an energy spot market IRL ⚡️ with 5 or more initial Plurigrid members onboarded and using it for settlement / impacts de-risked through simulation by an intersectional DeSci Plurigrid community that will at that point include the majority of researchers / engineers innovating in this space
+**Goal:** prepare to launch an energy spot market IRL ⚡️ with 5 or more initial Plurigrid members onboarded and using it for settlement / impacts de-risked through simulation by an intersectional DeSci Plurigrid community that will at that point include the majority of researchers / engineers innovating in this space.

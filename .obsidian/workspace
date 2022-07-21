@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Values/Pluralism.md",
+            "file": "Mission/ReFi Founders Circle.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Values/Pluralism.md",
+                "file": "Mission/ReFi Founders Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Values/Pluralism.md",
+                "file": "Mission/ReFi Founders Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Values/Pluralism.md"
+                "file": "Mission/ReFi Founders Circle.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "df15813e729ae1e4",
   "lastOpenFiles": [
+    "Values/Pluralism.md",
     "Mission/ReFi Founders Circle.md",
-    "Vision/Grid Simulation.md",
-    "Values/Pluralism.md"
+    "Vision/Grid Simulation.md"
   ]
 }
