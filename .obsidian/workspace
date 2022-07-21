@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mission/ReFi Founders Circle.md",
+            "file": "Onboarding.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mission/ReFi Founders Circle.md",
+                "file": "Onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mission/ReFi Founders Circle.md",
+                "file": "Onboarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mission/ReFi Founders Circle.md"
+                "file": "Onboarding.md"
               }
             }
           }
@@ -130,8 +130,9 @@
   },
   "active": "df15813e729ae1e4",
   "lastOpenFiles": [
-    "Values/Pluralism.md",
+    "Vision/Grid Simulation.md",
+    "Onboarding.md",
     "Mission/ReFi Founders Circle.md",
-    "Vision/Grid Simulation.md"
+    "Values/Pluralism.md"
   ]
 }
