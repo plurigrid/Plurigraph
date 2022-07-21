@@ -1,5 +1,11 @@
 This guide exists to allow new Plurigrid members to get onboarded to essential collaboration tooling (on-chain and otherwise) required for full participation in Plurigrid Commons.  
-
+# Orbis
+https://orbis.club/group/kjzl6cwe1jw147c8blur8rcamv0woxmtmtvuncn8k7wym8oj2k4q3a8lnxezzn6
+## Prerequisites
+- [Math Wallet](https://mathwallet.org/en-us/) [TallyHo!](https://tally.cash) or similar wallet
+- (optional) ENS, e.g. `bakunin.eth`
+## Steps
+TODO
 # DAO DAO
 https://daodao.zone/dao/juno1z3zqgz7t0hcu2fx4wusuyjq0gc2m33la8l64saunfz7vmqwa2d5sz6jnep
 ## Prerequisites
@@ -10,7 +16,7 @@ TODO
 # GitHub
 ## Prerequisites
 - GitHub.com account
-- SSH key added to GH + 2FA enabled
+- [SSH key added to GH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) + [2FA enabled](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa)
 ## Steps
 TODO
 # Obsidian
@@ -27,10 +33,3 @@ TODO
 Command Pallete
 `Obsidian Git: Commit all changes`
 `Obsidian Git: Push`
-# Orbis
-https://orbis.club/group/kjzl6cwe1jw147c8blur8rcamv0woxmtmtvuncn8k7wym8oj2k4q3a8lnxezzn6
-## Prerequisites
-- [TallyHo!](https://tally.cash) or similar wallet
-- (optional) ENS, e.g. `bakunin.eth`
-## Steps
-TODO

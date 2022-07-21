@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "df15813e729ae1e4",
+        "id": "e943a41cf7847fa1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "df15813e729ae1e4",
+  "active": "e943a41cf7847fa1",
   "lastOpenFiles": [
-    "Vision/Grid Simulation.md",
     "Onboarding.md",
+    "Vision/Grid Simulation.md",
     "Mission/ReFi Founders Circle.md",
     "Values/Pluralism.md"
   ]
