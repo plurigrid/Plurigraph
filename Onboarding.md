@@ -31,6 +31,10 @@ https://github.com/Plurigrid/knowledge (this repository)
 
 ## Steps
 TODO
+- clone `knowledge` repository using the SSH URI
+- open directory as a Vault in Obsidian
+- add yourself to the people
+- 
 ...
 
 ### When ready to publish changes
