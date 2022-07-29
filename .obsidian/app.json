@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "Latent Space",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }
