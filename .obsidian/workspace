@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Onboarding.md",
+            "file": "Vision/Greenpaper.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Vision/Greenpaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Vision/Greenpaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding.md"
+                "file": "Vision/Greenpaper.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "6f95a44df681893d",
   "lastOpenFiles": [
+    "Tech/Simulation NFT Standard.md",
+    "Books/Capitalist Realism.md",
+    "Onboarding.md",
     "on-chain.md",
     "conflict-files-obsidian-git.md",
     "Books/GreenPilled.md",
     "Books/Sacred Economics.md",
     "Books/Think Like a Commoner.md",
     "Latent Space/cagegrid3.png",
-    "Onboarding.md",
-    "Mission/ReFi Founders Circle.md",
-    "Books/Capitalist Realism.md",
-    "().md"
+    "Mission/ReFi Founders Circle.md"
   ]
 }
