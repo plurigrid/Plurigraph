@@ -1,7 +1,10 @@
 ![](../Latent%20Space/cagegrid3.png)
 
 
-👽💡 **Plurigrid is an idea.** Like a splinter in your mind, it beckons you to imagine a world where **baseline level of access to clean electricity is a universal human right** ⚡🔌, a world where we can look past our differences when it comes to [things](https://podcasts.apple.com/us/podcast/capitalist-realism-by-mark-fisher/id1502659321?i=1000471749869) that matter to _all_ of us.
+👽💡 **Plurigrid is an idea.**
+Like a splinter in your mind, it beckons you to imagine a world where we can look past our differences when it comes to [things](https://podcasts.apple.com/us/podcast/capitalist-realism-by-mark-fisher/id1502659321?i=1000471749869) that matter to _all_ of us.
+
+What unites this Commons is the fact that we see **baseline level of access to electricity as a universal human right** ⚡🔌 
 
 [Plurigrid's is a world]() where we can **address planetary scale challenges** and negative externalities everywhere, so that the sentient life can _make it_. It is a word with a freedom to associate with those we like and agree with, and one where abundance grants us kindness towards those whom we merely accept. We not rugging the Individualatomic personof their sovereign subjectivity.
 
@@ -16,8 +19,8 @@ jurisdictional entities and associated paperwork, not even DAOs, or network stat
 - whole Earth system
 # Pluralism
 TODO
-# Bootstrapping simulation economy
-## `$MATRIX` tokenomics
+# `$MATRIX`
+## Bootstrapping simulation economy
 TODO
 ## Simulation categories
 - **domain simulations** - energy and grid-related sims (NREL [dGen](https://github.com/Plurigrid/dgen))
@@ -31,7 +34,7 @@ TODO
 2. []()
 ## What on 🌏 is Plurigrid? 
 It's in your head.
-# What is our dystopia?
+## What is our dystopia?
 When creating anything with optimistic, or radically optimistic ~= utopian aspirations, it is informative to consider a dystopia of where you might end up if not attentive to unintended consequences.  For instance, for PG, it's [THX 1138](https://www.youtube.com/watch?v=eHgqfVQWv7s).
 ## Karl Popper Criterion
 If Plugrid were to be any of the onchain entities or technologies associated with it, and since the current most significant onchain entity is arguably its [DAO on Junø](https://daodao.zone/dao/juno1z3zqgz7t0hcu2fx4wusuyjq0gc2m33la8l64saunfz7vmqwa2d5sz6jnep) - then since

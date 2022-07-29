@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vision/Greenpaper.md",
+            "file": "Books/Capitalist Realism.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision/Greenpaper.md",
+                "file": "Books/Capitalist Realism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision/Greenpaper.md",
+                "file": "Books/Capitalist Realism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision/Greenpaper.md"
+                "file": "Books/Capitalist Realism.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1aa40442a4f5f6fe",
+  "active": "b80667db6ac3856c",
   "lastOpenFiles": [
-    "Values/Privacy.md",
-    "Values/Pluriverse.md",
-    "Latent Space/cagegrid5.jpg",
     "Vision/Greenpaper.md",
-    "Mission/ReFi Founders Circle.md",
-    "Latent Space/cagegrid3.png",
-    "Vision/Grid Simulation.md",
     "on-chain.md",
-    "Tech/KYVE.md",
-    "Latent Space/verses 1.png"
+    "Books/Sacred Economics.md",
+    "Books/GreenPilled.md",
+    "Books/Think Like a Commoner.md",
+    "World/🏢 Gemeinschaft/Institute for Simulation Intelligence.md",
+    "World/🏢 Gemeinschaft/National Renewable Energy Laboratory.md",
+    "World/👥 Gesellschaft/Untitled.md",
+    "World/🏢 Gemeinschaft/Pasteur Labs.md",
+    "Vision/Grid Simulation.md"
   ]
 }
