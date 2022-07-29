@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Think Like a Commoner.md",
+            "file": "Mission/2022-07-29.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Think Like a Commoner.md",
+                "file": "Mission/2022-07-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Think Like a Commoner.md",
+                "file": "Mission/2022-07-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Think Like a Commoner.md"
+                "file": "Mission/2022-07-29.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "d61e64d7c0ab6cbe",
   "lastOpenFiles": [
+    "Books/Think Like a Commoner.md",
     "Tech/cadCAD.md",
     "Mission/2022-07-29.md",
     "Templates/mission-updates-template.md",
@@ -138,7 +139,6 @@
     "Onboarding.md",
     "World/🏢 Gemeinschaft/ReFi DAO.md",
     "Tech/Simulation NFT Standard.md",
-    "Vision/Greenpaper.md",
-    "Books/GreenPilled.md"
+    "Vision/Greenpaper.md"
   ]
 }
