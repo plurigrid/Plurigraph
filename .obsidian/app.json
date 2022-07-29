@@ -1,3 +1,5 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Latent Space",
+  "showUnsupportedFiles": true
 }
