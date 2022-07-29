@@ -7,8 +7,12 @@
         "id": "1aa40442a4f5f6fe",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vision/Greenpaper.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vision/Greenpaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vision/Greenpaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vision/Greenpaper.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b80667db6ac3856c",
+  "active": "1aa40442a4f5f6fe",
   "lastOpenFiles": [
-    "Vision/Greenpaper.md",
-    "Latent Space/cagegrid3.jpg",
     "Vision/Grid Simulation.md",
-    "Vision/Research integration.md",
-    "distributed identity.md",
-    "2022-07-29.md",
-    "Mission/ReFi Founders Circle.md",
     "Values/Pluriverse.md",
-    "().md",
-    "Values/Privacy.md"
+    "Values/Privacy.md",
+    "Vision/Greenpaper.md",
+    "Latent Space/cagegrid9.png",
+    "Latent Space/cagegrid.jpg",
+    "Onboarding.md",
+    "on-chain.md",
+    "Vision/Research integration.md",
+    "().md"
   ]
 }
