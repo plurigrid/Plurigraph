@@ -1,3 +1,4 @@
+![](verses.png)
 Source: https://pluriverse.world
 
 The profiteers of this age promise digital freedom through technology. This is not the first such promise.
