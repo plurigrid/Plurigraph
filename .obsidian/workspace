@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Books/Capitalist Realism.md",
+            "file": "Tech/Simulation NFT Standard.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d61e64d7c0ab6cbe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tech/cadCAD.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Capitalist Realism.md",
+                "file": "Tech/Simulation NFT Standard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Capitalist Realism.md",
+                "file": "Tech/Simulation NFT Standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Capitalist Realism.md"
+                "file": "Tech/Simulation NFT Standard.md"
               }
             }
           }
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b80667db6ac3856c",
+  "active": "1aa40442a4f5f6fe",
   "lastOpenFiles": [
     "Vision/Greenpaper.md",
+    "Tech/cadCAD.md",
+    "Books/GreenPilled.md",
+    "Books/Capitalist Realism.md",
     "on-chain.md",
     "Books/Sacred Economics.md",
-    "Books/GreenPilled.md",
     "Books/Think Like a Commoner.md",
     "World/🏢 Gemeinschaft/Institute for Simulation Intelligence.md",
     "World/🏢 Gemeinschaft/National Renewable Energy Laboratory.md",
-    "World/👥 Gesellschaft/Untitled.md",
-    "World/🏢 Gemeinschaft/Pasteur Labs.md",
-    "Vision/Grid Simulation.md"
+    "World/👥 Gesellschaft/Untitled.md"
   ]
 }

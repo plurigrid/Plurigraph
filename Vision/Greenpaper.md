@@ -24,9 +24,9 @@ TODO
 TODO
 ## Simulation categories
 - **domain simulations** - energy and grid-related sims (NREL [dGen](https://github.com/Plurigrid/dgen))
-- **game simulation** - open games (cybercat), agent-based simulation aka token engineering (Tokenspice) - how do tokens contribute to creation of commons / incentives and direct behavior
+- **open game simulation** - open games (cybercat), agent-based simulation aka token engineering (Tokenspice) - how do tokens contribute to creation of commons / incentives and direct behavior
 - **infrastructure simulation** - (data availability, execution, consensus layers of replicated state machines) + message relaying infrastructure for communication between them + physical sensors and interfaces + MPC for private ML
-- **agent-based simulation** (incl. adversary simulation) - can use okenSpice, cadCAD
+- **agent-based simulation** (incl. adversary simulation) - can use TokenSpice, [[../Tech/cadCAD]]
 # Random thoughts
 ## Papers that came to mind
 0. [Language Model Cascades](https://arxiv.org/abs/2207.10342)
