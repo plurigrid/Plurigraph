@@ -1,5 +1,6 @@
 ![](../Latent%20Space/cagegrid3.png)
 👽💡
+
 **Plurigrid is an idea.** Like a splinter in your mind, it beckons you to imagine a world where **baseline level of access to clean electricity is a universal human right** ⚡🔌, a world where we can look past our differences when it comes to [things](https://podcasts.apple.com/us/podcast/capitalist-realism-by-mark-fisher/id1502659321?i=1000471749869) that matter to _all_ of us.
 
 [Plurigrid's is a world]() where we can **address planetary scale challenges** and negative externalities everywhere, so that the sentient life can _make it_. It is a word with a freedom to associate with those we like and agree with, and one where abundance grants us kindness towards those whom we merely accept. We not rugging the Individualatomic personof their sovereign subjectivity.
