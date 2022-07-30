@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d61e64d7c0ab6cbe",
+        "id": "19ef811edd147780",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mission/2022-07-29.md",
+            "file": "onboarding.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f33cee370c2e9e27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mission/2022-07-29.md",
+                "file": "onboarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mission/2022-07-29.md",
+                "file": "onboarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mission/2022-07-29.md"
+                "file": "onboarding.md"
               }
             }
           }
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d61e64d7c0ab6cbe",
+  "active": "19ef811edd147780",
   "lastOpenFiles": [
-    "Books/Think Like a Commoner.md",
-    "Tech/cadCAD.md",
+    "Technology/Gitcoin Passport.md",
     "Mission/2022-07-29.md",
-    "Templates/mission-updates-template.md",
-    "Books/Short Circuiting Policy.md",
-    "on-chain.md",
-    "Onboarding.md",
-    "World/🏢 Gemeinschaft/ReFi DAO.md",
-    "Tech/Simulation NFT Standard.md",
-    "Vision/Greenpaper.md"
+    "Technology/Tally Ho.md",
+    "conflict-files-obsidian-git.md",
+    "onboarding.md",
+    "Mission/Mission.md",
+    "Values/Values.md",
+    "Technology/Plurigraph.md",
+    "Technology/distributed identity.md",
+    "Books/Capitalist Realism.md"
   ]
 }
