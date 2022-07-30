@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6f95a44df681893d",
+        "id": "66f943fcbc7d138a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mission/ReFi Founders Circle.md",
+            "file": "Vision/Greenpaper.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mission/ReFi Founders Circle.md",
+                "file": "Vision/Greenpaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mission/ReFi Founders Circle.md",
+                "file": "Vision/Greenpaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mission/ReFi Founders Circle.md"
+                "file": "Vision/Greenpaper.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f95a44df681893d",
+  "active": "66f943fcbc7d138a",
   "lastOpenFiles": [
-    "Tech/Simulation NFT Standard.md",
-    "Onboarding.md",
-    "Mission/ReFi Founders Circle.md",
-    "Latent Space/cagegrid3.png",
-    "Books/GreenPilled.md",
-    "Values/Privacy.md",
-    "Values/Pluriverse.md",
+    "().md",
     "Vision/Greenpaper.md",
-    "Vision/Grid Simulation.md",
-    "Vision/Research integration.md"
+    "Books/Think Like a Commoner.md",
+    "Mission/2022.md",
+    "Mission/2022-07-29.md",
+    "Technology/cadCAD.md",
+    "Technology/arXiv.md",
+    "Technology/distributed identity.md",
+    "Technology/Gitcoin Passport.md",
+    "Technology/KYVE.md"
   ]
 }
