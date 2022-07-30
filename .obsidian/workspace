@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Values/Pluriverse.md",
+            "file": "Technology/arXiv.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision/Greenpaper.md",
+                "file": "Technology/arXiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision/Greenpaper.md",
+                "file": "Technology/arXiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision/Greenpaper.md"
+                "file": "Technology/arXiv.md"
               }
             }
           }
@@ -140,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2dbca6bdb024818",
+  "active": "d226cbb79bd73408",
   "lastOpenFiles": [
-    "Technology/Gitcoin Passport.md",
     "Values/Pluriverse.md",
+    "Vision/Greenpaper.md",
+    "Technology/Gitcoin Passport.md",
     "Ceramic.md",
     "World/👥 Gesellschaft/Untitled.md",
     "onboarding.md",
     "Wallet.md",
     "Keplr.md",
     "Templates/mission-updates-template.md",
-    "README.md",
-    "Technology/KYVE.md"
+    "README.md"
   ]
 }

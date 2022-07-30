@@ -31,7 +31,8 @@ TODO
 ## Papers that came to mind
 0. [Language Model Cascades](https://arxiv.org/abs/2207.10342)
 1. [Meta-Learning with Graph Neural Networks: Methods and Applications](https://arxiv.org/abs/2103.00137)
-2. []()
+2. [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/abs/2112.03235)
+3. [Liquidity-Saving through Obligation-Clearing and Mutual Credit](https://www.mdpi.com/1911-8074/13/12/295)
 ## What on 🌏 is Plurigrid? 
 It's in your head.
 ## What is our dystopia?
