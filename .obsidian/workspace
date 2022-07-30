@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "19ef811edd147780",
+        "id": "d226cbb79bd73408",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "onboarding.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f33cee370c2e9e27",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "README.md.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "onboarding.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "onboarding.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "onboarding.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19ef811edd147780",
+  "active": "d226cbb79bd73408",
   "lastOpenFiles": [
     "Technology/Gitcoin Passport.md",
-    "Mission/2022-07-29.md",
-    "Technology/Tally Ho.md",
-    "conflict-files-obsidian-git.md",
+    "README.md.md",
     "onboarding.md",
-    "Mission/Mission.md",
-    "Values/Values.md",
+    "Ceramic.md",
+    "Technology/KYVE.md",
+    "Technology/Simulation NFT Standard.md",
     "Technology/Plurigraph.md",
-    "Technology/distributed identity.md",
-    "Books/Capitalist Realism.md"
+    "Mission/2022-07-29.md",
+    "Mission/2022.md",
+    "Technology/Tally Ho.md"
   ]
 }
