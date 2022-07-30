@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Onboarding.md",
+            "file": "Mission/ReFi Founders Circle.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Mission/ReFi Founders Circle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onboarding.md",
+                "file": "Mission/ReFi Founders Circle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onboarding.md"
+                "file": "Mission/ReFi Founders Circle.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "6f95a44df681893d",
   "lastOpenFiles": [
-    "Books/Think Like a Commoner.md",
-    "Latent Space/cagegrid3.png",
-    "Mission/ReFi Founders Circle.md",
-    "Tech/distributed identity.md",
-    "Values/Pluriverse.md",
-    "Values/Privacy.md",
     "Tech/Simulation NFT Standard.md",
+    "Onboarding.md",
+    "Mission/ReFi Founders Circle.md",
+    "Latent Space/cagegrid3.png",
+    "Books/GreenPilled.md",
+    "Values/Privacy.md",
+    "Values/Pluriverse.md",
+    "Vision/Greenpaper.md",
     "Vision/Grid Simulation.md",
-    "Vision/Research integration.md",
-    "Vision/Greenpaper.md"
+    "Vision/Research integration.md"
   ]
 }
