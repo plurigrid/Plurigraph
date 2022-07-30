@@ -15,7 +15,7 @@ The very concept of centralised govenance opens the door to power-leeches. Pluri
 jurisdictional entities and associated paperwork, not even DAOs, or network states. Vehemently, it is not to be identified with any technologies that enable it today and any applications that it leads to need to always be evaluated against these **Guiding Star principles** ✨
 - we need a verifiably neutral [Energy Coordination Commons]()
 - baseline level of access to electricity (e.g. for refrigeration) is a human right and a natural one.
-- whole Earth system
+- whole [Earth system]()
 - increase participation in human flourishing ~
 # Pluralism
 TODO

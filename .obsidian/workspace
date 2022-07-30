@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Values/Pluriverse.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e2dbca6bdb024818",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vision/Greenpaper.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Vision/Greenpaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Vision/Greenpaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Vision/Greenpaper.md"
               }
             }
           }
@@ -128,17 +140,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b80667db6ac3856c",
+  "active": "e2dbca6bdb024818",
   "lastOpenFiles": [
     "Technology/Gitcoin Passport.md",
-    "README.md",
-    "onboarding.md",
+    "Values/Pluriverse.md",
     "Ceramic.md",
-    "Technology/KYVE.md",
-    "Technology/Simulation NFT Standard.md",
-    "Technology/Plurigraph.md",
-    "Mission/2022-07-29.md",
-    "Mission/2022.md",
-    "Technology/Tally Ho.md"
+    "World/👥 Gesellschaft/Untitled.md",
+    "onboarding.md",
+    "Wallet.md",
+    "Keplr.md",
+    "Templates/mission-updates-template.md",
+    "README.md",
+    "Technology/KYVE.md"
   ]
 }

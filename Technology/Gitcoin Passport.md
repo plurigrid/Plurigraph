@@ -1,2 +1,3 @@
 https://passport.gitcoin.co/
-Uses [[Ceramic]]
+
+Connect at least one source of 

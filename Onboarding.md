@@ -1,6 +1,6 @@
-0. [Gitcoin Passport](Technology/Gitcoin%20Passport.md) 
-1. [Tally Ho](Technology/Tally%20Ho.md)
-2. [[Technology/Plurigraph]]
+0. [[Wallet]]
+2. [Gitcoin Passport](Technology/Gitcoin%20Passport.md) 
+3. [[Technology/Plurigraph]]
 https://github.com/Plurigrid/knowledge (this repository)
 ## Prerequisites
 - [Obsidian.md](https://obsidian.md) installed locally (to be replaced with a [[Plurigraph]] [[pApp]])
