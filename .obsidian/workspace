@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d226cbb79bd73408",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Technology/arXiv.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "e2dbca6bdb024818",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vision/Greenpaper.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technology/arXiv.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technology/arXiv.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technology/arXiv.md"
+                "file": "README.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d226cbb79bd73408",
+  "active": "e2dbca6bdb024818",
   "lastOpenFiles": [
-    "Values/Pluriverse.md",
-    "Vision/Greenpaper.md",
-    "Technology/Gitcoin Passport.md",
-    "Ceramic.md",
-    "World/👥 Gesellschaft/Untitled.md",
     "onboarding.md",
-    "Wallet.md",
-    "Keplr.md",
-    "Templates/mission-updates-template.md",
-    "README.md"
+    "README.md",
+    "Technology/Gitcoin Passport.md",
+    "World/🏢 Gemeinschaft/Oasium.md",
+    "Vision/Greenpaper.md",
+    "pApp.md",
+    "Technology/Obsidian.md.md",
+    "Technology/Plurigraph.md",
+    "Technology/arXiv.md",
+    "Values/Pluriverse.md"
   ]
 }
