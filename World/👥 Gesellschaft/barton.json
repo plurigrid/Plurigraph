@@ -129,6 +129,70 @@
 					"provider": "Google"
 				}
 			}
+		},
+		{
+			"provider": "Discord",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..5NpOeAFd6HEKQ3uwgUYv98Pd6c2HZL2oNPFm2baid5TBD_MIoIkiuwFVyINh0Z-mh0g6AxDRTxbZg961SM3wAg",
+					"type": "Ed25519Signature2018",
+					"created": "2022-07-30T06:46:53.382Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2022-07-30T06:46:53.381Z",
+				"expirationDate": "2022-10-28T06:46:53.381Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x894ea876FD8F6d71bAB14Bc24201a960da31056f",
+					"hash": "v0.0.0:f0J8Fuz5HjySFFj53jKEz3TG4IM2xQWS+jek4MZuJ+A=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Discord"
+				}
+			}
+		},
+		{
+			"provider": "Linkedin",
+			"credential": {
+				"type": [
+					"VerifiableCredential"
+				],
+				"proof": {
+					"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..nU8swjeV3Pf-cN67OSG_ElzSjmQYU6zDoawKLOSY1gZz77B5sFnS8kKQ52lkNI1u1i4jplmf5NnP7lud6A5TBg",
+					"type": "Ed25519Signature2018",
+					"created": "2022-07-30T13:00:11.548Z",
+					"proofPurpose": "assertionMethod",
+					"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+				},
+				"issuer": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC",
+				"@context": [
+					"https://www.w3.org/2018/credentials/v1"
+				],
+				"issuanceDate": "2022-07-30T13:00:11.548Z",
+				"expirationDate": "2022-10-28T13:00:11.548Z",
+				"credentialSubject": {
+					"id": "did:pkh:eip155:1:0x894ea876FD8F6d71bAB14Bc24201a960da31056f",
+					"hash": "v0.0.0:VOpqIcAHitC2dBD4UgCUuA9LFl/youTMd/7WIH6oLfw=",
+					"@context": [
+						{
+							"hash": "https://schema.org/Text",
+							"provider": "https://schema.org/Text"
+						}
+					],
+					"provider": "Linkedin"
+				}
+			}
 		}
 	]
 }
