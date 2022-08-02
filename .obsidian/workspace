@@ -130,15 +130,15 @@
   },
   "active": "66f943fcbc7d138a",
   "lastOpenFiles": [
-    "().md",
-    "Vision/Greenpaper.md",
     "Books/Think Like a Commoner.md",
-    "Mission/2022.md",
-    "Mission/2022-07-29.md",
-    "Technology/cadCAD.md",
-    "Technology/arXiv.md",
+    "Values/Pluriverse.md",
+    "Values/Values.md",
+    "Values/Privacy.md",
+    "Technology/Plurigraph.md",
+    "Technology/Simulation NFT Standard.md",
+    "Technology/Tally Ho.md",
     "Technology/distributed identity.md",
-    "Technology/Gitcoin Passport.md",
-    "Technology/KYVE.md"
+    "Technology/arXiv.md",
+    "Onboarding.md"
   ]
 }

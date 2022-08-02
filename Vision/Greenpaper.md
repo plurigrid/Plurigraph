@@ -14,9 +14,9 @@ The very concept of centralised govenance opens the door to power-leeches. Pluri
 
 jurisdictional entities and associated paperwork, not even DAOs, or network states. Vehemently, it is not to be identified with any technologies that enable it today and any applications that it leads to need to always be evaluated against these **Guiding Star principles** ✨
 - we need a verifiably neutral [Energy Coordination Commons]()
-- baseline level of access to electricity (e.g. for refrigeration) is a human right and a natural one.
+- baseline level of access to electricity (e.g. for refrigeration) is a natural human right
 - whole [Earth system]()
-- increase participation in human flourishing ~
+- the widespread means to flourishing
 # Pluralism
 Governance with fitted value sets that can allow people with similar energy use preferences/values to aggregate. This makes sure the universal adoption of pluralism and the end of hegemonic DER control. One must consider the Hobbesian hob of power that exercises a prohibitive power over "the people".  In our case, a prohibitive sovereign (interchain structure) is necessary to set the ground rules but not sufficient for accurate web3 governance models. Sufficiency comes from an integration of governance models, agent-based simulations, grid configuration with a simple, built-in core of value pluralism.
 
@@ -36,6 +36,7 @@ TODO
 1. [Meta-Learning with Graph Neural Networks: Methods and Applications](https://arxiv.org/abs/2103.00137)
 2. [Simulation Intelligence: Towards a New Generation of Scientific Methods](https://arxiv.org/abs/2112.03235)
 3. [Liquidity-Saving through Obligation-Clearing and Mutual Credit](https://www.mdpi.com/1911-8074/13/12/295)
+4. 
 ## What on 🌏 is Plurigrid? 
 It's in your head.
 ## What is our dystopia?
