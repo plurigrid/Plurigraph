@@ -4,13 +4,13 @@
 👽💡 **Plurigrid is an idea.**
 Like a splinter in your mind, it beckons you to imagine a world where we can look past our differences when it comes to [things](https://podcasts.apple.com/us/podcast/capitalist-realism-by-mark-fisher/id1502659321?i=1000471749869) that matter to _all_ of us. 
 
-What unites this Commons is the fact that we see **baseline level of access to electricity as a universal human right** ⚡🔌  The right to have access to what one needs. 
+What unites this Common Space is the fact that we hold **baseline level of access to electricity as a universal human right** ⚡🔌  The right to have access to what one needs in order to fluorish. 
 
-[Plurigrid is a world]() where we can **address planetary scale challenges** and negative externalities everywhere, so that the sentient life can _make it_. Earthly life is sacred to Plurigrid. It is a word with a freedom to associate with those we like and agree with, and one where abundance grants us kindness towards those whom we merely accept. We not rugging the Individualatomic person of their sovereign subjectivity.
+[Plurigrid is a world]() where we can **address planetary scale challenges** and negative externalities resulted by centralised control of fundamental public goods, so that the sentient life can _make it_. Earthly life is sacred to Plurigrid. It is a word encapsulating freedom to associate with those we like and agree with, where disagreement results in independence rather than compromise, and one where abundance grants us kindness towards those whom we merely accept. All the while, we preserve the Individualatomic person of their subjectivity.
 
 One meme is to never be identified with the forever wrong, occasionally useful models of reality, or any finite representations. Whether model weights or "on-chain" footprints of a much more nonfungible reality we inhabit. We can merely approach a "truthful" model of reality, but never inhabit it, for thinking we have truth condemns us to dogmatism.
 
-The very concept of centralised govenance opens the door to power-leeches. Plurigrid is structurally designed to promote natural social organization according to one's own will. The metrics for success are our guiding star of openess, transparency, efficiency, power to all.
+The very concept of centralised govenance opens the door to power-leeches. Plurigrid is the structure that guides and prevents individuals from accruing undue power and influence over their commons. Plurigrid is structurally designed to promote natural social organization according to one's own will and so one's will is never subject to another's. The metrics for success are our guiding star of openess, transparency, efficiency, power to all.
 
 jurisdictional entities and associated paperwork, not even DAOs, or network states. Vehemently, it is not to be identified with any technologies that enable it today and any applications that it leads to need to always be evaluated against these **Guiding Star principles** ✨
 - we need a verifiably neutral [Energy Coordination Commons]()
