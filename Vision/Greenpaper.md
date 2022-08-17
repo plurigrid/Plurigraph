@@ -20,7 +20,14 @@ jurisdictional entities and associated paperwork, not even DAOs, or network stat
 # Pluralism
 Governance with fitted value sets that can allow people with similar energy use preferences/values to aggregate. This makes sure the universal adoption of pluralism and the end of hegemonic DER control. One must consider the Hobbesian hob of power that exercises a prohibitive power over "the people".  In our case, a prohibitive sovereign (interchain structure) is necessary to set the ground rules but not sufficient for accurate web3 governance models. Sufficiency comes from an integration of governance models, agent-based simulations, grid configuration with a simple, built-in core of value pluralism.
 
-~We are the Grid~
+# Fairness Mechanisms
+First, we address criteria for effective ground-up governance. 
+_Unrestricted domain_: All members of a commons will have a vote and have their preferences reflected in governance with validity predicates.
+_Non-dictatorship_: dictatorship in practice is unideal. That the voting results will mirror a single person's preferences is important to understand for a more effective preventative measure against apparent value homogeneity. Plurigrid is the infrastructure that will allow for a plurality of preferences to be optimally met, and not have any person be subject to the absolute will of another. 
+_Pareto efficiency_: No participant can be made better off without making another participant worse off. Instead of relying on the "veil of ignorance" (Rawls) where no one is better off according to centralised decision-making, all participants will have their preferences protected by maximising their political effectiveness without having an unfair weight over another. 
+_Independence of alternatives_: Irrelevant issues will not affect voters' preferences. 
+
+These criteria can be met with our commons philosophy. The commons will have distributed voting mechanisms that verifiably assigns political power to all that is a part of it and will provide incentives for coordination for the good of the whole. 
 
 # `$MATRIX`
 ## Bootstrapping simulation economy
