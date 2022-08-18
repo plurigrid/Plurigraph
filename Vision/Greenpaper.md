@@ -2,23 +2,24 @@
 
 
 👽💡 **Plurigrid is an idea.**
-Like a splinter in your mind, it beckons you to imagine a world where we can look past our differences when it comes to [things](https://podcasts.apple.com/us/podcast/capitalist-realism-by-mark-fisher/id1502659321?i=1000471749869) that matter to _all_ of us. 
+Like a splinter in your mind, it beckons you to imagine a world, a Commons where we can look past our differences when it comes to [things](https://podcasts.apple.com/us/podcast/capitalist-realism-by-mark-fisher/id1502659321?i=1000471749869) that matter to _all_ of us. 
 
-What unites this Common Space is the fact that we hold **baseline level of access to electricity as a universal human right** ⚡🔌  The right to have access to what one needs in order to fluorish. 
+[Plurigrid is a world]() where we can **address planetary scale challenges** and negative externalities resulted by centralised control of fundamental public goods, so that the sentient life can _make it_. Earthly life is sacred to Plurigrid. It is a word encapsulating freedom to associate with those we like and agree with, where disagreement results in independence rather than compromise, and one where abundance grants us kindness towards those whom we merely accept. 
 
-[Plurigrid is a world]() where we can **address planetary scale challenges** and negative externalities resulted by centralised control of fundamental public goods, so that the sentient life can _make it_. Earthly life is sacred to Plurigrid. It is a word encapsulating freedom to associate with those we like and agree with, where disagreement results in independence rather than compromise, and one where abundance grants us kindness towards those whom we merely accept. All the while, we preserve the Individualatomic person of their subjectivity.
+Our ethos is to never be identified with the forever wrong, occasionally useful models of reality, or any finite representations. Model weights or "on-chain" footprints are pale imitations of the pluralistic reality we inhabit-- thinking we have truth condemns us to dogmatism. As such, Plurigrid will capture the multiplicity in values and in lived experiences in a truly neutral platform. Plurigrid is designed to promote natural social organization according to one's own will so that one's will is never subject to another's. Plurigrid is the structure that prohibits individuals from accruing unearned power and influence over their commons, i.e. no dictatorship over the commons!
 
-One meme is to never be identified with the forever wrong, occasionally useful models of reality, or any finite representations. Whether model weights or "on-chain" footprints of a much more nonfungible reality we inhabit. We can merely approach a "truthful" model of reality, but never inhabit it, for thinking we have truth condemns us to dogmatism.
+Openess, transparency, efficiency, power to all.
 
-The very concept of centralised govenance opens the door to power-leeches. Plurigrid is the structure that guides and prevents individuals from accruing undue power and influence over their commons. Plurigrid is structurally designed to promote natural social organization according to one's own will and so one's will is never subject to another's. The metrics for success are our guiding star of openess, transparency, efficiency, power to all.
-
-jurisdictional entities and associated paperwork, not even DAOs, or network states. Vehemently, it is not to be identified with any technologies that enable it today and any applications that it leads to need to always be evaluated against these **Guiding Star principles** ✨
+In addition to defining Plurigrid's core values, we must draw the line of what we are not. No central governance that subscribes to jurisdictional entities that will be exploitable to unbalanced power games (not the least through administrative paperwork); it is not a network state where private property is the ultimate right when Plurigrid, fundamentally, provides a public good. Vehemently, it is not to be identified with any technologies that enable it today. Promoting pluralistic values requires pluralistic means of access. Cross-platform adaptability minimises friction and maximises ease in onboarding onto our commons project. In the beginning, technology choices will allow for everyone to have access to the grid, then, the birbs will take over. Birbs have referential transparency that allows for seamless development.
+Any and all applications that Plurigrid incorporates need to always be evaluated against these **Guiding Star principles** ✨
 - we need a verifiably neutral [Energy Coordination Commons]()
 - baseline level of access to electricity (e.g. for refrigeration) is a natural human right
 - whole [Earth system]()
 - the widespread means to flourishing
+- no power-leeches
+
 # Pluralism
-Governance with fitted value sets that can allow people with similar energy use preferences/values to aggregate. This makes sure the universal adoption of pluralism and the end of hegemonic DER control. One must consider the Hobbesian hob of power that exercises a prohibitive power over "the people".  In our case, a prohibitive sovereign (interchain structure) is necessary to set the ground rules but not sufficient for accurate web3 governance models. Sufficiency comes from an integration of governance models, agent-based simulations, grid configuration with a simple, built-in core of value pluralism.
+Governance with fitted value sets that can allow people with similar energy use preferences/values to aggregate and make the optimal governance decisions. This makes sure the universal adoption of pluralism and the end of hegemonic DER control. One must consider the Hobbesian center of power that exercises a prohibitive power over "the people". Hegemony prohibits the freedom of association that best meets the need for public goods. Plurigrid will provide the integrative infrastructure for multi-platform operations and encourage communities of shared values to emerge naturally from that structure.  Sufficiency comes from an integration of governance models, agent-based simulations, grid configuration with a simple, built-in core of value pluralism.
 
 # Fairness Mechanisms
 First, we address criteria for effective ground-up governance. 
