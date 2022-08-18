@@ -30,10 +30,13 @@ First, we address criteria for effective ground-up governance.
 
 [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem), where ranked preferences cannot be converted to actions without violating at least one of the above criteria. The problem arises out of an obfuscation of voter intent from imperfect information gathering, inflated voter numbers, intent-matching. These issues are currently addressed by the [Anoma protocol](https://anoma.net/vision-paper.pdf) where the consensus layer engages all members with intent-matching validity predicates. Plurigrid commons will implement this protocol with manageable quora so that signals of intent are clear and heard. The commons will have distributed voting mechanisms that verifiably assigns political power to all and will provide incentives for coordination for the good of the whole. 
 
+The [8 rules for self-governing](https://serve-learn-sustain.gatech.edu/managing-commons-eight-principles-self-govern) will be met in every commons. The requirements were naturally met by our commons philosophy. 
+
 # `$MATRIX`
 ## Bootstrapping simulation economy
 TODO
 ## Simulation categories
+Simulations are crucial to commons engineering. They will engage scientists to adopt global standard of commons structure and governance as well as more efficient mechanisms for DERs. 
 - **domain simulations** - energy and grid-related sims (NREL [dGen](https://github.com/Plurigrid/dgen))
 - **open game simulation** - open games (cybercat), agent-based simulation aka token engineering (Tokenspice) - how do tokens contribute to creation of commons / incentives and direct behavior
 - **infrastructure simulation** - (data availability, execution, consensus layers of replicated state machines) + message relaying infrastructure for communication between them + physical sensors and interfaces + MPC for private ML
