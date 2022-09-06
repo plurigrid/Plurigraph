@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Season 0/Grants Funding/Neutron CosmWasm.md",
+            "file": "World/🏢 Gemeinschaft/Chain4Energy.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f70358e417c49db2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "World/🏢 Gemeinschaft/Chain4Energy.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Season 0/Grants Funding/Neutron CosmWasm.md",
+                "file": "World/🏢 Gemeinschaft/Chain4Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Season 0/Grants Funding/Neutron CosmWasm.md",
+                "file": "World/🏢 Gemeinschaft/Chain4Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Season 0/Grants Funding/Neutron CosmWasm.md"
+                "file": "World/🏢 Gemeinschaft/Chain4Energy.md"
               }
             }
           }
@@ -127,17 +139,17 @@
     "direction": "horizontal",
     "width": 141
   },
-  "active": "2fa3f61af5fd5622",
+  "active": "b80667db6ac3856c",
   "lastOpenFiles": [
+    "World/👥 Gesellschaft/Dave Fortson.md",
+    "World/🏢 Gemeinschaft/Chain4Energy.md",
+    "World/🏢 Gemeinschaft/Cerulean Ventures.md",
+    "Season 0/Grants Funding/Neutron CosmWasm.md",
     "World/👥 Gesellschaft/Jahed Momand.md",
     "World/🏢 Gemeinschaft/Mutualism Co-op.md",
-    "World/🏢 Gemeinschaft/Cerulean Ventures.md",
     "World/🏛 Gemeinde/Hong Kong.md",
     "().md",
     "on-chain.md",
-    "Untitled.md",
-    "Vision/Greenpaper.md",
-    "Books/Think Like a Commoner.md",
-    "Values/Pluriverse.md"
+    "Untitled.md"
   ]
 }
