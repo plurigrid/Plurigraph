@@ -1,4 +1,4 @@
-![](../Latent%20Space/cagegrid3.png)
+![](../Media/cagegrid3.png)
 
 
 👽💡 **Plurigrid is an idea.**

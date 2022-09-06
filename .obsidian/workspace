@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66f943fcbc7d138a",
+        "id": "2fa3f61af5fd5622",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vision/Greenpaper.md",
+            "file": "Season 0/Grants Funding/Neutron CosmWasm.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision/Greenpaper.md",
+                "file": "Season 0/Grants Funding/Neutron CosmWasm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision/Greenpaper.md",
+                "file": "Season 0/Grants Funding/Neutron CosmWasm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision/Greenpaper.md"
+                "file": "Season 0/Grants Funding/Neutron CosmWasm.md"
               }
             }
           }
@@ -125,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "66f943fcbc7d138a",
+  "active": "2fa3f61af5fd5622",
   "lastOpenFiles": [
+    "World/👥 Gesellschaft/Jahed Momand.md",
+    "World/🏢 Gemeinschaft/Mutualism Co-op.md",
+    "World/🏢 Gemeinschaft/Cerulean Ventures.md",
+    "World/🏛 Gemeinde/Hong Kong.md",
+    "().md",
+    "on-chain.md",
+    "Untitled.md",
+    "Vision/Greenpaper.md",
     "Books/Think Like a Commoner.md",
-    "Values/Pluriverse.md",
-    "Values/Values.md",
-    "Values/Privacy.md",
-    "Technology/Plurigraph.md",
-    "Technology/Simulation NFT Standard.md",
-    "Technology/Tally Ho.md",
-    "Technology/distributed identity.md",
-    "Technology/arXiv.md",
-    "Onboarding.md"
+    "Values/Pluriverse.md"
   ]
 }
