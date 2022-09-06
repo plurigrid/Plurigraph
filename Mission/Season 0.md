@@ -1,7 +1,7 @@
 # Season 0
 `Recorded at: 2022-09-05 at Sentinels #0`
-https://app.clarity.so/plurigrid/group/GRID/projects
 
+https://app.clarity.so/plurigrid/group/GRID/projects
 
 Create all the possible prerequisites for the Energy Coordination Commons Season 1 (1 year long) to be successful at bringing us closer to the goal of a decentralized energy system and Type 1 Civilization.
 ## But what is a Commons?
