@@ -1,0 +1,2 @@
+# Sentinel meeting 0
+https://www.researchgate.net/publication/346443942_Liquidity-Saving_through_Obligation-Clearing_and_Mutual_Credit_An_Effective_Monetary_Innovation_for_SMEs_in_Times_of_Crisis
