@@ -14,4 +14,4 @@ At launch, it will be the largest TVL (securing the integrity of the consensus) 
 Our hybrid IBC pattern allows for any IBC-connected chain (i.e. there are relayers and incentives to run them) to join in being able to provide bootstrapping of Public Goods using permissionless and public ledgers **while** at the same time securing the smart grid private IBCs that we expect will emerge around sufficiently large communities, initially around nation-states, in the future - network states, corporations, and so on.  
 
 # How the grants will be used by Plurigrid. 
-- 
+- Grants will be received into DAO treasury and applied towards developer time, computational resources, gas costs to upload compiled contracts.
