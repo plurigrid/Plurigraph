@@ -1,5 +1,5 @@
 {
-  "folder": "Mission",
+  "folder": "Log",
   "autorun": true,
-  "template": "Templates/mission-updates-template"
+  "template": ""
 }

@@ -3,5 +3,7 @@
   "attachmentFolderPath": "Latent Space",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Log"
 }
