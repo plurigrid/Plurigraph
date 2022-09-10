@@ -30,12 +30,12 @@ Where our proposals reside.
 	- Authenticate on extension or local app
 - Propose, vote!
 =======
-0. [[Wallet]]
+0. [[Technology/Wallet]]
 2. [Gitcoin Passport](Technology/Gitcoin%20Passport.md) 
 3. [[Technology/Plurigraph]]
 https://github.com/Plurigrid/knowledge (this repository)
 ## Prerequisites
-- [Obsidian.md](https://obsidian.md) installed locally (to be replaced with a [[Plurigraph]] [[pApp]])
+- [Obsidian.md](https://obsidian.md) installed locally (to be replaced with a [[Plurigraph]] [[Technology/birb]])
 - GitHub configured (see above)
 
 ## Prerequisites

@@ -5,7 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbCalendar"
+      "IbBatteryVerticalFull",
+      "IbBatteryHorizontalCharging",
+      "IbBatteryVerticalCharging",
+      "IbFullScreen",
+      "IbGrid"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -16,5 +20,14 @@
       "left": 2
     }
   },
-  "Log": "IbCalendar"
+  "Log": "IbCalendar",
+  "World": "IbGlobe",
+  "Books": "IbAcademicBook",
+  "Media": "IbDatabse",
+  "Inbox": "IbInboxTray",
+  "Vision": "IbEarth",
+  "Technology": "IbScaleCircle",
+  "Mission": "IbGrid",
+  "Templates": "IbFullScreen",
+  "Values": "IbBatteryVerticalFull"
 }
