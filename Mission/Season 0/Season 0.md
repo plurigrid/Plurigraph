@@ -1,6 +1,6 @@
+**2022-09-04 🔜 2022-10-04**
 # Season 0
 `Recorded at: 2022-09-05 at Sentinels #0`
-
 https://app.clarity.so/plurigrid/group/GRID/projects
 
 Create all the possible prerequisites for the Energy Coordination Commons Season 1 (1 year long) to be successful at bringing us closer to the goal of a decentralized energy system and Type 1 Civilization.
@@ -17,9 +17,8 @@ Create all the possible prerequisites for the Energy Coordination Commons Season
 - [] ability or willingness to learn GitHub
 - [] ability or willingness to learn Markdown
 - [] ability or willingness to learn Git client for their OS
-- [] install a web9 browser
-  - has tree style tabs (Vivaldi, Firefox + TreeStyleTabs)
-  - is only used together with resources that absouletly require a DID (TallyHo for EVM, )
+- [] install a web9 browser (we recommend [[Vivaldi]])
+  - we recomend to only use it with resources that absouletly require a DID (TallyHo for EVM chains, Keplr for Interchain, NEAR does not require an extension)
 ## Goals
 - [] Roadmap for Season 1 (see [Season 0](https://github.com/Plurigrid/knowledge))
 - [] Plurigraph UX
