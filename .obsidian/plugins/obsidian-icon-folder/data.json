@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbBatteryHorizontalMedium",
+      "IbActivity",
       "IbBatteryVerticalFull",
       "IbBatteryHorizontalCharging",
-      "IbBatteryVerticalCharging",
-      "IbFullScreen",
-      "IbGrid"
+      "IbBatteryVerticalCharging"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,11 +23,11 @@
   "Log": "IbCalendar",
   "World": "IbGlobe",
   "Books": "IbAcademicBook",
-  "Media": "IbDatabse",
+  "Media": "IbActivity",
   "Inbox": "IbInboxTray",
   "Vision": "IbEarth",
   "Technology": "IbScaleCircle",
   "Mission": "IbGrid",
   "Templates": "IbFullScreen",
-  "Values": "IbBatteryVerticalFull"
+  "Values": "IbBatteryHorizontalMedium"
 }

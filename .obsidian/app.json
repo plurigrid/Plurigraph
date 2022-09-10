@@ -1,9 +1,9 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Latent Space",
+  "attachmentFolderPath": "Media",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Log"
+  "newFileFolderPath": "Inbox"
 }
