@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "68472e9ada1f4d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "35bf804d7ab7c590",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "People/Advisors/Untitled.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c30841c954603147",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a88f2df5270c795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9388104b410ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31765c8989ab2d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c17eec614b4edfc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bfa28c894d0cf9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c6a80bbadba253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88cf73dd4c418895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Advisors/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75d0e8a0b79fed17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Advisors/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35bf804d7ab7c590",
+  "lastOpenFiles": [
+    "People/Advisors/Untitled.md",
+    "People/Aamir - barton@secdao.xyz's conflict 07.06.2022_01.56.21.md",
+    "📆 ☼ Journal/2022-07-06.md",
+    "📆 ☼ Journal/2022-07-07.md",
+    "☯︎ ☼ Coordinate/Oasium - General.md",
+    "☯︎ ☼ Coordinate/Plurigrid - Onboarding.md",
+    "☯︎ ☼ Coordinate/Plurigrid - Community.md",
+    "☯️ Coordinate/Oasium - General.md",
+    "☯️ Coordinate/Plurigrid - Onboarding.md",
+    "☯️ Coordinate/Plurigrid - Entity Formation.md"
+  ]
+}

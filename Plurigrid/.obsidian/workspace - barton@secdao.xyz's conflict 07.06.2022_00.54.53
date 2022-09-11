@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "68472e9ada1f4d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cb906a996b34d5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Technology/Element.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c30841c954603147",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a88f2df5270c795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9388104b410ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31765c8989ab2d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef6ba26453f225e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bfa28c894d0cf9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c6a80bbadba253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88cf73dd4c418895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technology/Element.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6be1120ee8f2b82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technology/Element.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0cb906a996b34d5c",
+  "lastOpenFiles": [
+    "Technology/Element.md",
+    "Journal/2022-07-06.md",
+    "Journal/2022-07-05.md",
+    "Journal/2022-07-06 - barton@secdao.xyz's conflict 07.06.2022_00.43.47.md",
+    "Inbox/wrinkled graphene.md",
+    "Inbox/First pass.md",
+    "Technology/Solar Inverters.md",
+    "Technology/CosmWasm.md",
+    "Theory/Tokenomics.md",
+    "Theory/Fractal Ownership.md"
+  ]
+}

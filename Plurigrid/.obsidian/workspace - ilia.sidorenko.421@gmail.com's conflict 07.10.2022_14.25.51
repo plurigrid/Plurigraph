@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "68472e9ada1f4d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "35bf804d7ab7c590",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Attachments/energy2.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c30841c954603147",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a88f2df5270c795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9388104b410ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31765c8989ab2d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce69dc36fc19dd43",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bfa28c894d0cf9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c6a80bbadba253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88cf73dd4c418895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Attachments/energy2.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fc463a3de4c9d89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Attachments/energy2.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "35bf804d7ab7c590",
+  "lastOpenFiles": [
+    "Attachments/energy2.png",
+    "📆 ☼ Journal/2022-07-10.md",
+    "📥 ☼ Inbox/Untitled Kanban.md",
+    "☯︎ ☼ Coordinate/Oasium - General.md",
+    "☯︎ ☼ Coordinate/Plurigrid - Onboarding.md",
+    "📆 ☼ Journal/2022-07-07.md",
+    "📥 ☼ Inbox/First pass.md",
+    "📥 ☼ Inbox/wrinkled graphene.md",
+    "📥 ☼ Inbox/Untitled.md",
+    "Propaganda/Website/Landing page.md"
+  ]
+}

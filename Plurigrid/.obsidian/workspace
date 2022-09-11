@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "68472e9ada1f4d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "16cd00f87c55013c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c30841c954603147",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a88f2df5270c795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9388104b410ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31765c8989ab2d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c17eec614b4edfc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "4bfa28c894d0cf9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c6a80bbadba253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88cf73dd4c418895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75d0e8a0b79fed17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "active": "16cd00f87c55013c",
+  "lastOpenFiles": [
+    "Attachments/Plurigrid-logo.png",
+    "Attachments/Plurigrid - NREL.png",
+    "💡 ☼ Inbox/cadCAD.md",
+    "⚡️ ☼ Coordinate/Plurigrid - General.md",
+    "⚡️ ☼ Coordinate/Oasium - General.md",
+    "📆 ☼ Log/2022-09-10.md",
+    "📆 ☼ Log/2022-09-06.md",
+    "📆 ☼ Log/2022-09-05.md",
+    "📆 ☼ Log/2022-08-30.md",
+    "💡 ☼ Inbox/room temperature iq synopsis.md"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "68472e9ada1f4d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "89847a8c2d4f668b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "📆 ☼ Log/2022-07-07.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c30841c954603147",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a88f2df5270c795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9388104b410ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "31765c8989ab2d81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c17eec614b4edfc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bfa28c894d0cf9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c6a80bbadba253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88cf73dd4c418895",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📆 ☼ Log/2022-07-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75d0e8a0b79fed17",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📆 ☼ Log/2022-07-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "89847a8c2d4f668b",
+  "lastOpenFiles": [
+    "📆 ☼ Log/2022-07-07.md",
+    "📆 ☼ Log/2022-07-05.md",
+    "📆 ☼ Log/2022-07-06.md",
+    "Theory/pluralism.md",
+    "Theory/Fractal Ownership.md",
+    "Propaganda/Website/Landing page.md",
+    "⚡️ ☼ Coordinate/Plurigrid - General.md",
+    "Technology/Solar Inverters.md",
+    "People/Xili.md",
+    "People/Aamir.md"
+  ]
+}

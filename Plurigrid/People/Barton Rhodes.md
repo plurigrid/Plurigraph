@@ -1,0 +1,2 @@
+# Favourite people
+- [[Nikola Tesla]]

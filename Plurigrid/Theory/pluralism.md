@@ -1,0 +1,1 @@
+A variety of views, lives, philosophies injects potential for change into [[Plurigrid]] to be maximally adaptable. 
