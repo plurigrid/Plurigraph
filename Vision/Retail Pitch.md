@@ -14,6 +14,6 @@ Plurigrid will contribute to commons contracts in cosmwasm, making it easier for
 
 As result, the data received through the grid sumulation on chain will help individuals and entreprises create better energy systems for their own benefits, benefits of their communities and busineses. At the same time preserving their data privacy. 
 
-Plurigrid as the commons protocol, will alow states, busineses, indviduals for better energy managment creating more efficient energy markets. Greener, cheaper and sovereign.
+Plurigrid as the commons protocol, will alow states, busineses, indviduals for better energy managment creating more efficient energy markets. Greener, cheaper and sovereign.x
 
 
