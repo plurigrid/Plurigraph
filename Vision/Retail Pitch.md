@@ -1,8 +1,9 @@
 The world's electricity grid is under increasing strain.
 
 Changing climate and social instability posses greater than ever risk of grid instablity. Result? Power outages, energy waste, rising energy prices, uncertainity. 
-https://www.ft.com/content/370bf602-7a62-4f31-a23d-aa62bb94e91a
-https://www.businessinsider.com/global-europe-energy-crisis-power-electricity-outages-blackouts-energy-grid-2022-9
+
+- https://www.ft.com/content/370bf602-7a62-4f31-a23d-aa62bb94e91a
+- https://www.businessinsider.com/global-europe-energy-crisis-power-electricity-outages-blackouts-energy-grid-2022-9
 
 Current technolody of smart grids allow for better stability of the grid. Yet, we have not found the solution that would be optimal application for smart grids that could protect user data and provide energy sovereignity to states and individuals. 
 
