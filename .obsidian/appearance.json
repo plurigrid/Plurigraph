@@ -5,5 +5,5 @@
   "interfaceFontFamily": "SF Pro Display",
   "monospaceFontFamily": "SF Mono",
   "textFontFamily": "SF Pro Text",
-  "translucency": true
+  "translucency": false
 }
