@@ -1,4 +1,0 @@
-- Run weekly
-- Using [[cadcad]]
-- The results of simulations are auctioned off in nouns.wtf style
-- To vote on simulation parameters you need [[$MATRIX]] token

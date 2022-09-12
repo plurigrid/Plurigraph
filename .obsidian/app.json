@@ -6,5 +6,6 @@
   "newLinkFormat": "relative",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "useTab": false
+  "useTab": false,
+  "readableLineLength": false
 }
