@@ -2,7 +2,7 @@
 - make sure to have Tally Ho! and Keplr Wallets installed
 - choose an on-chain entity to be a part of (requires voting participation)
     - [Junø DAO DAO](https://daodao.zone/dao/juno1z3zqgz7t0hcu2fx4wusuyjq0gc2m33la8l64saunfz7vmqwa2d5sz6jnep)  [NEAR AstroDAO](https://app.astrodao.com/dao/plurigrid.sputnik-dao.near) (soon `Celo` / `PoS Ethereum`)
-- join [Orbis](https://orbis.club)
+- join [Orbis](https://orbis.club) and [Clarity](https://app.clarity.so/invite-link/0iZYgIMsK9)
 - join [Plurigrid's GitHub org](https://github.com/Plurigrid/)
 - follow us on [Twitter](https://twitter.com/plurigrid) 
 # Joining Plurigraph (note: USE SSH)
