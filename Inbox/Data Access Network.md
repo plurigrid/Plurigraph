@@ -10,7 +10,7 @@ Because of complexity described above, most users use "Nodes-as-a-service" servi
 
 These services are not requesting your wallet key, so you still have control over your funds. However, centralization still stays as main lack of such services.
 
-Existance and adoption of such services makes blockchains and platforms based on it not censorship-resistant and centralized in some way.
+Existence and adoption of such services makes blockchains and platforms based on it not censorship-resistant and centralized in some way.
 
 Tornado Cash, ethereum's crypto mixer that pretended to be decentralized, was blocked in several ways, one of these ways and one of main ways was blocking interactions with Tornado Cash using Infura API endpoint.
 
