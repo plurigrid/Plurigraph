@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiAttachment2",
+      "IbArchive",
       "IbBatteryHorizontalMedium",
       "IbActivity",
-      "IbBatteryVerticalFull",
-      "IbBatteryHorizontalCharging",
-      "IbBatteryVerticalCharging"
+      "IbBatteryVerticalFull"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +28,7 @@
   "Technology": "IbScaleCircle",
   "Mission": "IbGrid",
   "Templates": "IbFullScreen",
-  "Values": "IbBatteryHorizontalMedium"
+  "Values": "IbBatteryHorizontalMedium",
+  "Archive": "IbArchive",
+  "Attachments": "RiAttachment2"
 }
