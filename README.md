@@ -15,4 +15,4 @@
 	- `Obsidian Git: Push`
 5. Open a PR from your repository to Plurigrid origin to be signed up
 
-After the PR is merged, verify that your wallet can now interact with https://plurgrid.xyz
+After the PR is merged, verify that your wallet can now interact with https://plurigrid.xyz
