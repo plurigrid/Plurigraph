@@ -1,0 +1,3 @@
+Brian Hardock: The world is effectively a component type. The interface maps to instance type. More generically, a world is a family of components. A world is a function that takes imports and as a result returns exports. Type at time of instantion is fixed. A world is meant to reflect that it’s a higher order over any number of interfaces which could result an instances. I’ve been trying to shift away from thinking of a world as a component.
+
+Luke Wagner: Big motivating design challenge was trying to support union and intersection of worlds. So part of that is that the particular world I use doesn’t matter. World is just a convenience thing.
